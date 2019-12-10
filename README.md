@@ -1,4 +1,4 @@
-# python实现HNUC部分实时讲座信息推送
+# python实现HNUC部分讲座信息实时推送
 
 需要的环境：Python 、酷Q CQHTTP插件、Mysql
 python 需要下载的包：schedule、 requests 、lxml、pymysql
