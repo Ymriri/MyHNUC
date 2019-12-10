@@ -1,5 +1,12 @@
-# MyHNUC
+# python实现HNUC部分实时讲座信息推送
 
-Python 、酷Q CQHTTP插件、Mysql
+需要的环境：Python 、酷Q CQHTTP插件、Mysql
 python 需要下载的包：schedule、 requests 、lxml、pymysql
-额外需要Mysql 存储数据、表的结构源码有
+
+额外需要Mysql 存储数据：
+  表名：lecture    
+   属性：lecture_id、lecture_url, lecture_time, lecture_name lecture 自增
+
+
+有疑问联系Q：1448265203,后续会把公众号推文和QQ动态关于讲座的爬取也增加进来
+
